@@ -1,8 +1,8 @@
 /*--------------------------------------------------------------
-# General
+# Generale
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #272829;
 }
 
@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
-# Back to top button
+# Pulsante per tornare su
 --------------------------------------------------------------*/
 .back-to-top {
   position: fixed;
@@ -560,7 +560,7 @@ section {
   bottom: 0;
   text-align: center;
   z-index: 3;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 1s;
   display: flex;
   flex-direction: column;
   justify-content: center;
